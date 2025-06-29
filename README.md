@@ -17,51 +17,31 @@ This is a real-time **Hybrid Automation Framework** developed to automate the Op
 ---
 
 ## 🧩 Project Structure
-
 OpencartV121/
-│
 ├── src/
 │ ├── test/java/
-│ │ ├── pageObjects/ # Page classes (POM)
-│ │ │ ├── LoginPage.java
-│ │ │ ├── RegistrationPage.java
-│ │ │ ├── HomePage.java
-│ │ │ ├── CheckoutPage.java
-│ │ │ ├── SearchPage.java
-│ │ │ ├── MyAccountPage.java
-│ │ │ ├── ShoppingCartPage.java
-│ │ │ └── BasePage.java
-│ │ ├── testBase/ # Setup & teardown
-│ │ │ └── BaseClass.java
-│ │ ├── testCases/ # Functional test scripts
-│ │ │ ├── TC001_AccountRegistrationTest.java
-│ │ │ ├── TC002_LoginTest.java
-│ │ │ ├── TC003_LoginDDT.java
-│ │ │ ├── TC004_SearchProductTest.java
-│ │ │ ├── TC005_AddToCartPageTest.java
-│ │ │ └── TC006_EndToEndTest.java
-│ │ ├── utilities/ # Reusable functions
-│ │ │ ├── DataProviders.java
-│ │ │ ├── ExcelUtility.java
-│ │ │ └── ExtentReportManager.java
-│ ├── test/resources/
-│ │ ├── config.properties # App & browser settings
-│ │ └── log4j2.xml # Logging configuration
+│ │ ├── pageObjects/ # Page classes using POM
+│ │ ├── testBase/ # Setup and teardown logic
+│ │ ├── testCases/ # All test scripts
+│ │ └── utilities/ # Reusable utilities like Excel & reporting
+│ ├── test/resources/ # Configuration and logging files
 │
-├── testData/ # Excel input for DDT
-├── test-output/ # TestNG reports & suite XMLs
+├── testData/ # Excel files for data-driven testing
+├── test-output/ # TestNG reports and XML suites
 │ ├── master.xml
-│ ├── grouping.xml
-│ ├── crossbrowsertesting.xml
 │ ├── grid-docker.xml
-│ ├── Grid-Standalone.xml
-│ └── docker-compose.yaml
-├── reports/ # ExtentReport HTML output
-├── screenshots/ # Screenshots on test failures
-├── logs/ # Log4j2 logs with timestamps
-├── run.bat # Batch file for Jenkins or local CLI execution
-├── pom.xml # Maven dependencies and plugins
+│ ├── docker-compose.yaml
+│ └── others...
+├── reports/ # ExtentReports HTML output
+├── screenshots/ # Failure screenshots
+├── logs/ # Log4j2 logs
+├── pom.xml # Maven dependencies
+├── run.bat # Batch file to run tests via CMD/Jenkins
 └── target/ # Compiled output
+
+css
+Copy
+Edit
 
 ---
 
