@@ -8,13 +8,6 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_005_AddToCartPageTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verify_addToCart"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC_005_AddToCartPageTest -->
       <class name="testCases.TC_006_EndToEndTest">
         <methods>
           <include name="tearDown"/>
