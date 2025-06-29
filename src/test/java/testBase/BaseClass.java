@@ -8,7 +8,6 @@ import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
 import java.util.Properties;
-import java.util.ResourceBundle;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -34,11 +33,11 @@ import org.apache.logging.log4j.LogManager;               //log4j
 
 public class BaseClass {
 	
-		public static WebDriver driver;
-		public Logger logger;
+		public static WebDriver driver;           //for capture screenshot make it static other wise remove 
+		public Logger logger;						//log4j
 		public Properties p;
 	
-			@BeforeClass(groups={"Sanity","Master","Regression",})
+			@BeforeClass(groups={"Sanity","Master","Regression"})
 			@Parameters({"os","browser"})
 			public void setup(String os,String br) throws IOException 
 			{
@@ -46,7 +45,7 @@ public class BaseClass {
 				FileReader file=new FileReader("./src//test//resources//config.properties");
 				p=new Properties();
 				p.load(file);
-				logger=LogManager.getLogger(this.getClass());
+				logger=LogManager.getLogger(this.getClass());//log4j2
 				
 				if(p.getProperty("execution_env").equalsIgnoreCase("remote")) 
 				{
@@ -100,7 +99,7 @@ public class BaseClass {
 				driver.manage().window().maximize();
 			}
 			
-			@AfterClass(groups={"Sanity","Master","Regression",})
+			@AfterClass(groups={"Sanity","Master","Regression"})
 			public void tearDown() 
 			{
 				driver.quit();

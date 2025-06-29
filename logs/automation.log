@@ -1,40 +1,230 @@
-2025-06-12 12:25:39 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
-2025-06-12 12:25:39 INFO  TC001_AccountRegistrationTest:19 - Clicked On My Account Link...
-2025-06-12 12:25:40 INFO  TC001_AccountRegistrationTest:21 - Clicked On Register Link...
-2025-06-12 12:25:40 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
-2025-06-12 12:25:42 INFO  TC001_AccountRegistrationTest:40 - Validating Expected message....
-2025-06-12 12:25:42 INFO  TC001_AccountRegistrationTest:58 - ********Finished TC001_AccountRegistrationTest started***********
-2025-06-12 12:25:46 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
-2025-06-12 12:25:47 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
-2025-06-12 12:32:02 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
-2025-06-12 12:32:02 INFO  TC001_AccountRegistrationTest:19 - Clicked On My Account Link...
-2025-06-12 12:32:02 INFO  TC001_AccountRegistrationTest:21 - Clicked On Register Link...
-2025-06-12 12:32:03 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
-2025-06-12 12:32:05 INFO  TC001_AccountRegistrationTest:40 - Validating Expected message....
-2025-06-12 12:32:05 INFO  TC001_AccountRegistrationTest:58 - ********Finished TC001_AccountRegistrationTest started***********
-2025-06-12 12:32:09 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
-2025-06-12 12:32:12 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
-2025-06-12 12:36:03 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
-2025-06-12 12:36:03 INFO  TC001_AccountRegistrationTest:19 - Clicked On My Account Link...
-2025-06-12 12:36:03 INFO  TC001_AccountRegistrationTest:21 - Clicked On Register Link...
-2025-06-12 12:36:04 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
-2025-06-12 12:36:05 INFO  TC001_AccountRegistrationTest:40 - Validating Expected message....
-2025-06-12 12:36:05 INFO  TC001_AccountRegistrationTest:58 - ********Finished TC001_AccountRegistrationTest started***********
-2025-06-12 12:36:08 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
-2025-06-12 12:36:10 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
-2025-06-12 14:39:18 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
-2025-06-12 14:39:18 INFO  TC001_AccountRegistrationTest:19 - Clicked On My Account Link...
-2025-06-12 14:39:18 INFO  TC001_AccountRegistrationTest:21 - Clicked On Register Link...
-2025-06-12 14:39:19 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
-2025-06-12 14:39:21 INFO  TC001_AccountRegistrationTest:40 - Validating Expected message....
-2025-06-12 14:39:21 INFO  TC001_AccountRegistrationTest:58 - ********Finished TC001_AccountRegistrationTest started***********
-2025-06-12 14:39:25 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
-2025-06-12 14:39:27 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
-2025-06-12 15:00:36 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
-2025-06-12 15:00:36 INFO  TC001_AccountRegistrationTest:19 - Clicked On My Account Link...
-2025-06-12 15:00:36 INFO  TC001_AccountRegistrationTest:21 - Clicked On Register Link...
-2025-06-12 15:00:37 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
-2025-06-12 15:00:39 INFO  TC001_AccountRegistrationTest:40 - Validating Expected message....
-2025-06-12 15:00:39 INFO  TC001_AccountRegistrationTest:58 - ********Finished TC001_AccountRegistrationTest started***********
-2025-06-12 15:00:42 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
-2025-06-12 15:00:45 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--1994470611\testng-customsuite.xml
+
+2025-06-29 15:54:37 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-06-29 15:54:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@523424b5: 71 ms
+2025-06-29 15:54:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@f415a95: 14 ms
+2025-06-29 15:54:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@759fad4: 15 ms
+2025-06-29 15:54:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@476aac9: 12 ms
+2025-06-29 15:54:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@25f9407e: 8 ms
+2025-06-29 15:54:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@552518c3: 1 ms
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--133935488\testng-customsuite.xml
+
+2025-06-29 15:55:59 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-06-29 15:55:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@29cfd92b: 97 ms
+2025-06-29 15:55:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2b52c0d6: 19 ms
+2025-06-29 15:55:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4a9cc6cb: 16 ms
+2025-06-29 15:55:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72b16078: 13 ms
+2025-06-29 15:55:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6ea1bcdc: 17 ms
+2025-06-29 15:55:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@759fad4: 0 ms
+2025-06-29 16:16:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\eclipse-workspace\OpencartV121\master.xml
+
+2025-06-29 16:16:12 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-06-29 16:16:12 INFO  TC001_AccountRegistrationTest:20 - Clicked On My Account Link...
+2025-06-29 16:16:12 INFO  TC001_AccountRegistrationTest:22 - Clicked On Register Link...
+2025-06-29 16:16:13 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2025-06-29 16:16:14 INFO  TC001_AccountRegistrationTest:41 - Validating Expected message....
+2025-06-29 16:16:14 INFO  TC001_AccountRegistrationTest:59 - ********Finished TC001_AccountRegistrationTest started***********
+2025-06-29 16:16:17 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-06-29 16:16:19 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
+2025-06-29 16:16:22 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-06-29 16:16:22 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-06-29 16:16:25 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-06-29 17:10:55 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-06-29 17:10:55 INFO  TC001_AccountRegistrationTest:20 - Clicked On My Account Link...
+2025-06-29 17:10:55 INFO  TC001_AccountRegistrationTest:22 - Clicked On Register Link...
+2025-06-29 17:10:56 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2025-06-29 17:10:57 INFO  TC001_AccountRegistrationTest:41 - Validating Expected message....
+2025-06-29 17:10:57 INFO  TC001_AccountRegistrationTest:59 - ********Finished TC001_AccountRegistrationTest started***********
+2025-06-29 17:11:02 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-06-29 17:11:05 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
+2025-06-29 17:11:08 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-06-29 17:11:09 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-06-29 17:11:13 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-06-29 17:11:15 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2025-06-29 17:13:07 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-06-29 17:13:07 INFO  TC001_AccountRegistrationTest:20 - Clicked On My Account Link...
+2025-06-29 17:13:07 INFO  TC001_AccountRegistrationTest:22 - Clicked On Register Link...
+2025-06-29 17:13:08 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2025-06-29 17:13:09 INFO  TC001_AccountRegistrationTest:41 - Validating Expected message....
+2025-06-29 17:13:09 INFO  TC001_AccountRegistrationTest:59 - ********Finished TC001_AccountRegistrationTest started***********
+2025-06-29 17:13:11 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-06-29 17:13:13 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
+2025-06-29 17:13:15 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-06-29 17:13:16 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-06-29 17:13:18 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-06-29 17:29:07 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-06-29 17:29:07 INFO  TC001_AccountRegistrationTest:20 - Clicked On My Account Link...
+2025-06-29 17:29:08 INFO  TC001_AccountRegistrationTest:22 - Clicked On Register Link...
+2025-06-29 17:29:08 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2025-06-29 17:29:09 INFO  TC001_AccountRegistrationTest:41 - Validating Expected message....
+2025-06-29 17:29:10 INFO  TC001_AccountRegistrationTest:59 - ********Finished TC001_AccountRegistrationTest started***********
+2025-06-29 17:29:13 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-06-29 17:29:15 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
+2025-06-29 17:29:17 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-06-29 17:29:18 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-06-29 17:29:23 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--766788374\testng-customsuite.xml
+
+2025-06-29 17:32:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-06-29 17:32:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@29cfd92b: 88 ms
+2025-06-29 17:32:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2b52c0d6: 19 ms
+2025-06-29 17:32:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4a9cc6cb: 16 ms
+2025-06-29 17:32:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72b16078: 12 ms
+2025-06-29 17:32:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6ea1bcdc: 9 ms
+2025-06-29 17:32:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@759fad4: 1 ms
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-1969191703\testng-customsuite.xml
+
+2025-06-29 17:32:43 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-06-29 17:32:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@460f76a6: 88 ms
+2025-06-29 17:32:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3f19b8b3: 21 ms
+2025-06-29 17:32:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1950e8a6: 19 ms
+2025-06-29 17:32:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62417a16: 19 ms
+2025-06-29 17:32:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@53499d85: 10 ms
+2025-06-29 17:32:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@30ed9c6c: 0 ms
+2025-06-29 18:22:38 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-06-29 18:22:38 INFO  TC001_AccountRegistrationTest:20 - Clicked On My Account Link...
+2025-06-29 18:22:39 INFO  TC001_AccountRegistrationTest:22 - Clicked On Register Link...
+2025-06-29 18:22:39 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2025-06-29 18:22:40 INFO  TC001_AccountRegistrationTest:41 - Validating Expected message....
+2025-06-29 18:22:40 INFO  TC001_AccountRegistrationTest:59 - ********Finished TC001_AccountRegistrationTest started***********
+2025-06-29 18:22:43 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-06-29 18:22:44 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
+2025-06-29 18:22:46 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-06-29 18:22:47 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-06-29 18:22:49 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-06-29 18:34:00 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-06-29 18:34:00 INFO  TC001_AccountRegistrationTest:20 - Clicked On My Account Link...
+2025-06-29 18:34:00 INFO  TC001_AccountRegistrationTest:22 - Clicked On Register Link...
+2025-06-29 18:34:01 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2025-06-29 18:34:02 INFO  TC001_AccountRegistrationTest:41 - Validating Expected message....
+2025-06-29 18:34:02 INFO  TC001_AccountRegistrationTest:59 - ********Finished TC001_AccountRegistrationTest started***********
+2025-06-29 18:34:05 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-06-29 18:34:06 INFO  TC002_LoginTest:38 - ***********TC002_Logintest finished***********
+2025-06-29 18:34:08 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-06-29 18:34:09 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-06-29 18:34:11 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 

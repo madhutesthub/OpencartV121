@@ -11,19 +11,21 @@ public class MyAccountPage extends BasePage {
 		// TODO Auto-generated constructor stub
 	}
 
-	@FindBy(xpath="//h2[normalize-space()='My Account']")
+	@FindBy(xpath="//h2[normalize-space()='My Account']")// MyAccount Page heading
 	WebElement msgMyAccountHeading;
 	
-	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")//added in step6
 	WebElement lnkLogout;
 	
 	
 	public boolean isMyAccountPageExists()
 	{
-		try {
-			return msgMyAccountHeading.isDisplayed();
+		try 
+		{
+			return (msgMyAccountHeading.isDisplayed());
 		}
-		catch(Exception e) {
+		catch(Exception e) 
+		{
 			return false;
 		}
 	}

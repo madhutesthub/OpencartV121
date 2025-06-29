@@ -25,8 +25,8 @@
     <parameter name="browser" value="firefox"/>
      
     <classes>
-            <class name="testCases.TC001_AccountRegistrationTest"/> 
-    		 <class name="testCases.TC002_LoginTest"/> 
+            <class name="testCases.TC_004_SearchProductTest" />
+		  <class name="testCases.TC_005_AddToCartPageTest" /> 
     </classes>
   </test>
   

@@ -13,6 +13,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 	public void verify_account_registration() 
 	{
 		logger.info("****** TC001_AccountRegistrationTest started ********");
+		logger.debug("This is a debug log message");
 		try 
 		{
 		HomePage hp = new HomePage(driver); 
