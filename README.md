@@ -16,7 +16,6 @@ This is a real-time **Hybrid Automation Framework** developed to automate the Op
 
 ---
 
-## 🧩 Project Structure
 ## 🌿 Project Structure
 
 ```
