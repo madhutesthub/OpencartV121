@@ -17,31 +17,33 @@ This is a real-time **Hybrid Automation Framework** developed to automate the Op
 ---
 
 ## 🧩 Project Structure
+## 🌿 Project Structure
+
+```
 OpencartV121/
 ├── src/
-│ ├── test/java/
-│ │ ├── pageObjects/ # Page classes using POM
-│ │ ├── testBase/ # Setup and teardown logic
-│ │ ├── testCases/ # All test scripts
-│ │ └── utilities/ # Reusable utilities like Excel & reporting
-│ ├── test/resources/ # Configuration and logging files
-│
-├── testData/ # Excel files for data-driven testing
-├── test-output/ # TestNG reports and XML suites
-│ ├── master.xml
-│ ├── grid-docker.xml
-│ ├── docker-compose.yaml
-│ └── others...
-├── reports/ # ExtentReports HTML output
-├── screenshots/ # Failure screenshots
-├── logs/ # Log4j2 logs
-├── pom.xml # Maven dependencies
-├── run.bat # Batch file to run tests via CMD/Jenkins
-└── target/ # Compiled output
+│   └── test/java/
+│       ├── pageObjects/               # Page classes using Page Object Model
+│       ├── testBase/                  # Base class for setup/teardown
+│       ├── testCases/                 # Test scripts for features (Login, Register, etc.)
+│       └── utilities/                 # Reusable helpers (Excel, reporting, etc.)
+├── test/resources/
+│   ├── config.properties              # App and browser config
+│   └── log4j2.xml                     # Log4j2 configuration
+├── testData/                          # Excel files for Data-Driven Testing
+├── test-output/
+│   ├── master.xml                     # Main suite XML
+│   ├── grid-docker.xml                # Selenium Grid configuration
+│   ├── docker-compose.yaml            # Docker file for containers
+│   └── others...
+├── reports/                           # ExtentReport HTML outputs
+├── screenshots/                       # Failure screenshots
+├── logs/                              # Log4j2 logs
+├── pom.xml                            # Maven dependencies & plugins
+├── run.bat                            # CLI/Batch runner
+└── target/                            # Compiled output
+```
 
-css
-Copy
-Edit
 
 ---
 
