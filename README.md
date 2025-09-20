@@ -104,7 +104,7 @@ mvn test -DsuiteXmlFile=test-output/grid-docker.xml
 
 👤 Author
 Madhu Mallabathula
-Fresher QA Engineer with strong hands-on skills in automation, framework development, and continuous integration.
+QA Engineer with strong hands-on skills in automation, framework development, and continuous integration.
 📧 madhurgukt691@example.com
 🔗 https://www.linkedin.com/in/madhumallabathula/
 
